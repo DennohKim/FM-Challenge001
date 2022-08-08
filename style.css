@@ -51,3 +51,71 @@ section {
     padding: 1rem 1rem;
     
 }
+
+.nft-details{
+    padding: 1rem 1rem;
+}
+
+h1 {
+    font-size: 1.4rem;
+}
+
+.nft-description {
+    padding: 1.2rem 0;
+    line-height: 1.5;
+    color: #99B0D0 ;
+}
+
+.nft-details-container{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 1.6rem ;
+    border-bottom: 1px solid #99B0D0 ;
+}
+
+.nft-price-container{
+    display: flex;
+    
+}
+
+.eth-logo{
+    padding-right: 1.2rem;
+}
+
+.nft-price {
+    font-weight: 800;
+    color:  #27EAF0;
+}
+
+.days-left-container {
+    display: flex;
+}
+
+.clock-container{
+    padding-right: 1.2rem ;
+}
+
+.days-left{
+    color: #99B0D0 ;
+}
+
+.nft-creator-container{
+    display: flex;
+    padding-top: 2rem ;
+    align-items: center;
+}
+
+.profile-container {
+    padding-right: 1rem ;
+    width: 18%;
+    
+}
+
+.profile-container  > img {
+    width: 100%;
+    border: 1px solid #fff;
+    border-radius: 50rem;
+}
+
+
+
