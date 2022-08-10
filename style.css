@@ -21,7 +21,7 @@
 }
 /* ================================================================= */
 
-section {
+main {
   background-color: #0d1a2d;
   height: 100vh;
   display: flex;
@@ -42,9 +42,6 @@ section {
   position: relative;
   width: 100%;
   max-width: 400px;
-  /* background-image: url("./images/image-equilibrium.jpg");
-  background-repeat: no-repeat;
-  background-size: cover; */
 }
 
 .nft-image {
